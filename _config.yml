@@ -38,9 +38,9 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
-- label: Forex Strategy
+- label: Garen Trading Strategy
   url: /fx
-- label: Time Share Tools
+- label: Liners & Closers Calculator
   url: https://www.costbuildup.com/
 
 # Links shown below the TOC in the sidebar
