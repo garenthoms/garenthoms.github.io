@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Table of Contents
+title: Coming Soon
 permalink: /
 ---
 
