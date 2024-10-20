@@ -40,8 +40,8 @@ bookcrumbs:
 sidebar_nav_top:
 - label: Forex Strategy
   url: /fx
-- label: 
-  url: /
+- label: Time Share Tools
+  url: https://www.costbuildup.com/
 
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
