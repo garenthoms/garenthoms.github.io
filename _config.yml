@@ -38,6 +38,8 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
+- label: Founder & CEO of Allpree.com
+  url: https://www.allpree.com/
 - label: Garen Trading Strategy
   url: /fx
 - label: Liners & Closers Calculator
