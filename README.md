@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Coming Soon
+title: Who Is
 permalink: /
 ---
 
