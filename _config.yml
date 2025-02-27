@@ -38,11 +38,11 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
-- label: iWrite: Trend Trading Strategy
+- label: iWrite Trend Trading Strategy
   url: /fx
-- label: iCreate: Liner & Closer Calculator
+- label: iCreate Liner & Closer Calculator
   url: https://www.costbuildup.com/
-- label: iFound: Allpree.com
+- label: iFound Allpree.com
   url: https://www.allpree.com/
 - label: Fund Manager at AGHL Capital 
   url: 
