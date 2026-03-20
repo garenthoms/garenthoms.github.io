@@ -7,7 +7,7 @@ permalink: /
 <div align="center">
 
 <h3>GAREN THOMS <br>
-Independent Promotions & Store Deals Manager <br> **Westmoreland, Jamaica | +1-876-398-3993 | garenthoms@gmail.com</h3>
+Independent Promotions & Store Deals Manager <br> Westmoreland, Jamaica | +1-876-398-3993 | garenthoms@gmail.com</h3>
 </div>
 
 ### Professional Objective
