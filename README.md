@@ -1,21 +1,22 @@
 ---
 layout: home
-title: Garen Thoms
+title: Resume
 permalink: /
 ---
 
-
-
 <div align="center">
-# Independent Promotions & Store Deals Manager 
-**Westmoreland, Jamaica | +1-876-398-3993 | garenthoms @ gmail . com**
+
+**GAREN THOMS** <br>
+**Independent Promotions & Store Deals Manager** <br> **Westmoreland, Jamaica | +1-876-398-3993 | garenthoms@gmail.com**
 </div>
 
-Professional Objective
+### Professional Objective
+
 ---
 Dedicated Promotions Specialist helping Jamaican grocers digitize in store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital storefront. My goal is to bridge the gap between your store shelves and your customers phones with zero extra work for your staff.
 
-How I Help Your Store Grow
+### How I Help Your Store Grow
+
 ---
 - **Barcode to Live Workflow** There is no software for you to learn. Simply send a photo or text of your barcodes along with the Regular and Discount prices via Telegram. I handle the scanning, product matching, and digital publishing immediately.
 
@@ -27,7 +28,8 @@ How I Help Your Store Grow
 
 - **Direct Customer Reach** For J$60,000 per month, I ensure your deals actually reach your customers. I act as your dedicated manager to make sure your best prices are seen by shoppers before they decide where to shop, driving more foot traffic directly to your registers.
 
-Key Capabilities
+### Key Capabilities
+
 ---
 
 > ##### Jan 2024 – Present | Promotions Manager & Developer, Allpree System
@@ -46,7 +48,8 @@ Key Capabilities
 
 - **Zero Maintenance Operations:** I operate as an Invisible Staff Member. I require zero training for your employees and zero time from your IT department; the entire system runs externally under my management.
 
-Why Work With Me?
+### Why Work With Me?
+
 ---
 - **Reliability:** I am on call via Telegram 7 days a week from 7:00 AM to 9:00 PM. When you have a new deal, I am ready to publish it the moment you send it.
 
@@ -54,7 +57,8 @@ Why Work With Me?
 
 - **System Integration & Testing Phase:** To ensure 100 percent reliability for your store, I provide an initial 30 day integration period. This phase is used to calibrate the Telegram workflow and verify that your live deals are displaying perfectly before formalizing the ongoing partnership.
 
-Contractor Status & Terms
+### Contractor Status & Terms
+
 ---
 Independent Contractor (TRN available). No payroll taxes or benefits required.
 
