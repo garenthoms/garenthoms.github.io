@@ -36,13 +36,13 @@ Dedicated Promotions Specialist helping Jamaican grocers digitize in store deals
 
 - **24/7 Deal Management:** My system monitors your storefront around the clock. Whether a deal lasts for 24 hours or 7 days, the platform ensures it is live when it starts and removed when it ends.
 
-- **Curated Photo Library:** Maintained a 2,000 plus item professional photo library to ensure local brands (Grace, Seprod, etc.) always look premium on a digital screen.
+- **Curated Photo Library:** Maintained a 7,000 plus item professional photo library to ensure local brands (Grace, Seprod, etc.) always look premium on a digital screen.
 
 - **Price Accuracy:** Engineered Auto Expiration logic within the Allpree PWA to ensure customers never see an old deal, eliminating pricing disputes at the cash register.
 
 - **Home Store Loyalty:** Built a Home Store feature that locks customers into your specific storefront once they sign up via your QR code, driving repeat foot traffic.
 
-- **High Definition Visual Merchandising:** I replace low quality smartphone photos with professional studio grade imagery for every item, significantly increasing customer trust and item perceived value.
+- **High Definition Visual Merchandising:** I replace low-quality smartphone photos with professional studio-grade imagery for every item, significantly increasing customer trust and item perceived value.
 
 - **Zero Maintenance Operations:** I operate as an Invisible Staff Member. I require zero training for your employees and zero time from your IT department; the entire system runs externally under my management.
 
@@ -55,9 +55,8 @@ Dedicated Promotions Specialist helping Jamaican grocers digitize in store deals
 
 - **System Integration & Testing Phase:** To ensure 100 percent reliability for your store, I provide an initial 30 day integration period. This phase is used to calibrate the Telegram workflow and verify that your live deals are displaying perfectly before formalizing the ongoing partnership.
 
-### Contractor Status & Terms
-
+### Contractor Status & Partnership Terms
 ---
-Independent Contractor (TRN available). No payroll taxes or benefits required.
+- **Independent Partnership:** Registered Independent Contractor (TRN provided upon request). No payroll taxes, benefits, or overhead obligations for the Client.
 
-Simple month to month agreement; cancel any time with 7 days notice.
+- **Flexible Engagement:** Services are provided on a rolling month-to-month basis to ensure ongoing value. Partnership may be adjusted or concluded at any time with 7 days written notice.
