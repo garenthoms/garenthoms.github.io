@@ -5,12 +5,11 @@ permalink: /
 ---
 
 <div align="center">
-
 <h4>GAREN THOMS <br>
 Independent Promotions & Store Deals Manager <br> Westmoreland, Jamaica | +1-876-398-3993 | garenthoms@gmail.com</h4>
 </div>
 
-#### Professional Objective
+### Professional Objective
 ---
 Dedicated Promotions Specialist helping Jamaican grocers digitize in store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital storefront. My goal is to bridge the gap between your store shelves and your customers phones with zero extra work for your staff.
 
