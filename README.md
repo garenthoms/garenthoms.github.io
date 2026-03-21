@@ -11,10 +11,9 @@ Promotions & Developer Specialist <br> Contact: +{1}-{876}-{398}-{3993} | garent
 
 ### Professional Objective
 ---
-  Dedicated Promotions & Developer Specialist helping Jamaican grocers digitize in-store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital storefront. My goal is to bridge the gap between your store shelves and your customers phones with zero extra work for your staff.
+Dedicate myself to helping Jamaican grocers digitize their in-store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital flyer. My goal is to bridge the gap between your store shelves and your customers phones with zero extra work for your staff.
 
 ### How I Help Your Store Grow
-
 ---
 - **Barcode to Live Workflow:** There is no software for you to learn. Simply send a photo or text of your barcodes along with the Regular and Discount prices via Telegram. I handle the scanning, product matching, and digital publishing immediately.
 
@@ -25,9 +24,7 @@ Promotions & Developer Specialist <br> Contact: +{1}-{876}-{398}-{3993} | garent
 - **Professional Merchandising:** I utilize a high-end database of 7,000 plus professional Jamaican product photos. Even if you send a quick photo of a barcode, I ensure your customers see a sharp, high-quality advertisement.
 
 ### Key Capabilities
-
 ---
-
 > ##### Jan 2026 – Present | Promotions Manager & Developer, Allpree System
    - **Developed a specialized** Telegram Pipeline that allows me to process store data in real time, ensuring deals go from the shelf to the app in under 5 minutes.
    - **24/7 Deal Management:** My system monitors your storefront around the clock. Whether a deal lasts for 24 hours or 7 days, the platform ensures it is live when it starts and removed when it ends.
