@@ -84,7 +84,7 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
 
 - **Flexible Engagement:** Services are provided on a rolling month-to-month basis to ensure ongoing value. Partnership may be adjusted or concluded at any time with 7 days written notice.
 
-- **Service Package:** I offer three levels of service to ensure your store-specific deals reach your customers and drive foot traffic directly to your registers.
+- **Service Package:** I offer two levels of service to ensure your store-specific deals reach your customers and drive foot traffic directly to your registers.
 
   - **Single-Store Marketing Director (J$60,000/mo):** I ensure your deals reach your store best customers before anyone else, driving them back to your registers faster.
 
@@ -95,3 +95,4 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
     - Proprietary Customer Pwa App: A high-speed Digital Flyer that sits directly on your customers' phone home screens 
     - Workflow Calibration: Custom setup of your Telegram data pipeline for 100% reliability.
    
+**Ps:** If you would like to **Self-Manage Your Own Deals**, I can deploy my Proprietary Marketing Infrastructure and give you Access via Google Sheet for you or your staff to edit and manage deals directly.
