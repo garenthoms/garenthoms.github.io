@@ -86,9 +86,9 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
 
 - **Service Package:** I offer three levels of service to ensure your store-specific deals reach your customers and drive foot traffic directly to your registers.
 
-  - **Full-Time Deals Manager (J$60,000/mo):** I ensure your deals reach your store best customers before anyone else, driving them back to your registers faster.
+  - **Single-Store Marketing Director (J$60,000/mo):** I ensure your deals reach your store best customers before anyone else, driving them back to your registers faster.
 
-  - **Senior Marketing Director (J$100,000/mo base + J$10,000/mo per store):** I ensure your specific deals reach each branch's customers, acting as a dedicated manager for each store to drive traffic back to every location faster.
+  - **Multi-Store Marketing Director (J$100,000/mo base + J$10,000/mo per store):** I ensure your specific deals reach each branch's customers, to drive traffic back to every location registers faster.
  
 - **One-time Integration Fee:** J$15,000 - Per Store
   - During the first 30 days, I will deploy my Proprietary Marketing Infrastructure to a Global CDN cloud hosting infrastructure. I provide this Enterprise-Grade hosting for free as part of our ongoing partnership, offering "unhackable" static-state security and a 99.9% uptime guarantee. This setup includes:
