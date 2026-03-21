@@ -91,7 +91,6 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
  
 - **One-time Integration Fee:** J$15,000 - Per Store
   - During the first 30 days, I will deploy my proprietary technology to a Global CDN cloud hosting infrastructure. I provide this Enterprise-Grade hosting for free as part of our ongoing partnership, offering "unhackable" static-state security and a 99.9% uptime guarantee. This setup includes:
-    - Digital Web Flyer: A high-speed, branded deal link optimized for instant loading on WhatsApp, Instagram, and Facebook.
-    - Proprietary Customer App: I convert your flyer into an installable mobile app (PWA) that sits directly on your customers' phone home screens 
+    - Proprietary Customer Pwa App: A high-speed Digital Flyer that sits directly on your customers' phone home screens 
     - Workflow Calibration: Custom setup of your Telegram data pipeline for 100% reliability.
    
