@@ -94,5 +94,6 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
   - During the first 30 days, I will deploy my Proprietary Marketing Infrastructure to a Global CDN cloud hosting infrastructure. I provide this Enterprise-Grade hosting for free as part of our ongoing partnership, offering "unhackable" static-state security and a 99.9% uptime guarantee. This setup includes:
     - Proprietary Customer Pwa App: A high-speed Digital Flyer that sits directly on your customers' phone home screens 
     - Workflow Calibration: Custom setup of your Telegram data pipeline for 100% reliability.
+
    
-**Ps:** If you would like to **Self-Manage Your Own Deals**, I can deploy my Proprietary Marketing Infrastructure and give you Access via Google Sheet for you or your staff to edit and manage deals directly.
+**Ps:** If you would like to **Self-Manage Your Own Deals**, I can deploy my Proprietary Marketing Infrastructure and give you Access via Google Sheet for you or your staff to edit and manage deals directly. **(J$5,000/mo)**
