@@ -90,7 +90,7 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
   - **Senior Marketing Director** (J$100,000 base + J$10,000 per store): I ensure your specific deals reach each branch's customers, acting as a dedicated manager for each store to drive traffic back to every location faster.
  
 - **One-time Integration Fee:** J$15,000 - Per Store
-  - During the first 30 days of each location, I will deploy my proprietary technology for your business to a Global Content Delivery Network (CDN) cloud hosting infrastructure that I provide for free, which is "unhackable" with static-state security and a 99.9% uptime guarantee. This Enterprise-Grade Hosting includes:
+  - During the first 30 days, I will deploy my proprietary technology to a Global CDN cloud hosting infrastructure. I provide this Enterprise-Grade hosting for free as part of our ongoing partnership, offering "unhackable" static-state security and a 99.9% uptime guarantee. This setup includes:
     - Digital Web Flyer: A high-speed, branded deal link optimized for instant loading on WhatsApp, Instagram, and Facebook.
     - Proprietary Customer App: I convert your flyer into an installable mobile app (PWA) that sits directly on your customers' phone home screens 
     - Workflow Calibration: Custom setup of your Telegram data pipeline for 100% reliability.
