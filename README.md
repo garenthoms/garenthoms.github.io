@@ -76,11 +76,11 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
 
 - **Simplicity:** If you can send a Telegram message and point a customer to a QR code, you can run a professional marketing department. I handle all the technical heavy lifting.
 
-- **System Integration & Testing Phase:** To ensure 100 percent reliability for your store, I provide an initial 30 day integration period. This phase is used to calibrate the Telegram workflow and verify that your live deals are displaying perfectly before formalizing the ongoing partnership.
+- **System Integration & Testing Phase:** To ensure 100 percent reliability for your store, I provide an initial 30-day integration period. This phase is used to calibrate the Telegram workflow and verify that your live deals are displaying perfectly before formalizing the ongoing partnership.
 
 ### Contractor Status & Partnership Terms
 ---
-- **Independent Partnership:** Registered Independent Contractor (TRN provided upon request). No payroll taxes, benefits, or overhead obligations for the Client.
+- **Independent Contractor:** No payroll taxes, benefits, or overhead obligations for the Client.
 
 - **Flexible Engagement:** Services are provided on a rolling month-to-month basis to ensure ongoing value. Partnership may be adjusted or concluded at any time with 7 days written notice.
 
