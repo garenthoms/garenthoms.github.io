@@ -39,25 +39,25 @@ Dedicated Promotions Specialist <br> Contact: +{1}-{876}-{398}-{3993} | garentho
 
 ### Sales Leadership & Vacation Club Experience
 ---
-> ##### 2024 – 2025 | The Playa Collection Club (Hilton Rose Hall Resort & Spa) | Sales Director / Sales Manager / Closer
-   - Developed sales programs for TPCC Club and managed/trained a team of 13 Liners.
-   - Organized sales materials and managed follow-ups to prevent cancellations.
+> ##### 2024 – 2025 | The Playa Collection Club
+- (Hilton Rose Hall Resort & Spa) | Sales Director / Sales Manager / Closer
+ - Developed sales programs for TPCC Club and managed/trained a team of 13 Liners.
+ - Organized sales materials and managed follow-ups to prevent cancellations.
 
 > ##### 2023 – 2024 | Palladium Travel Club (Grand Palladium Jamaica) | Closer
 
-> ##### 2013 – 2020 | Travel Smart Vacation Club (TSVC) - Multiple Resorts | Sales Manager / Team Leader / Exit Manager
-    - Royalton Negril: Sales Manager; managed and trained Liners and Closers.
-    - Royalton White Sands: Front-to-Back, Closer, Team Leader, and Exit Manager.
-    - Grand Lido Negril: Manager Assistant; managed/trained 7 Liners and top-performing sales team.
-    - Braco Village: Liner / Front-to-Back.
+> ##### 2013 – 2020 | Travel Smart Vacation Club (TSVC) -
+- Multiple Resorts | Sales Manager / Team Leader / Exit Manager
+ - Royalton Negril: Sales Manager; managed and trained Liners and Closers.
+ - Royalton White Sands: Front-to-Back, Closer, Team Leader, and Exit Manager.
+ - Grand Lido Negril: Manager Assistant; managed/trained 7 Liners and top-performing sales team.
+ - Braco Village: Liner / Front-to-Back.
 
 > ##### 2010 – 2012 | Unlimited Vacation Club (Secrets Resorts & Spa Jamaica) | Liner
 
 > ##### 2008 – 2010 | Sandals Grande Ocho Rios Beach & Villa Resort | Sales Executive
-
-    - Prospected new business and managed high-value customer relationships via email and telephone.
-
-    - Conducted resort tours and handled administrative tasks, including commission invoicing.
+- Prospected new business and managed high-value customer relationships via email and telephone.
+- Conducted resort tours and handled administrative tasks, including commission invoicing.
 
 ### Education & Certification
 ---
