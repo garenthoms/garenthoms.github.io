@@ -86,14 +86,14 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
 
 - **Service Package:** I offer three levels of service to ensure your store-specific deals reach your customers and drive foot traffic directly to your registers.
 
-  - **Part-Time Assistant (J$8,000/mo):** I give you Access to my proprietary technology platform for your own staff to edit and manage deals directly via Google Sheet.
+  - **Part-Time Assistant (J$8,000/mo):** I give you Access to my Proprietary Marketing Infrastructure for your own staff to edit and manage deals directly via Google Sheet.
 
   - **Full-Time Deals Manager (J$60,000/mo):** I ensure your deals reach your store best customers before anyone else, driving them back to your registers faster.
 
   - **Senior Marketing Director (J$100,000/mo base + J$10,000/mo per store):** I ensure your specific deals reach each branch's customers, acting as a dedicated manager for each store to drive traffic back to every location faster.
  
 - **One-time Integration Fee:** J$15,000 - Per Store
-  - During the first 30 days, I will deploy my proprietary technology to a Global CDN cloud hosting infrastructure. I provide this Enterprise-Grade hosting for free as part of our ongoing partnership, offering "unhackable" static-state security and a 99.9% uptime guarantee. This setup includes:
+  - During the first 30 days, I will deploy my Proprietary Marketing Infrastructure to a Global CDN cloud hosting infrastructure. I provide this Enterprise-Grade hosting for free as part of our ongoing partnership, offering "unhackable" static-state security and a 99.9% uptime guarantee. This setup includes:
     - Proprietary Customer Pwa App: A high-speed Digital Flyer that sits directly on your customers' phone home screens 
     - Workflow Calibration: Custom setup of your Telegram data pipeline for 100% reliability.
    
