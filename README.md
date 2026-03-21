@@ -6,7 +6,7 @@ permalink: /
 
 <div align="center">
 <h4>Independent Contractor<br>
-Promotions Specialist / Developer <br> Contact: +{1}-{876}-{398}-{3993} | garenthoms {@} gmail.com</h4>
+Promotions & Developer Specialist <br> Contact: +{1}-{876}-{398}-{3993} | garenthoms {@} gmail.com</h4>
 </div>
 
 ### Professional Objective
