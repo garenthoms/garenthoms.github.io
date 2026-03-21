@@ -11,7 +11,7 @@ Promotions & Developer Specialist <br> Contact: +{1}-{876}-{398}-{3993} | garent
 
 ### Professional Objective
 ---
-Dedicate myself to helping Jamaican grocers digitize their in-store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital flyer. My goal is to bridge the gap between your store shelves and your customers phones with zero extra work for your staff.
+Dedicate myself to helping Jamaican grocers digitize their in-store deals through my Proprietary Marketing Infrastructure. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital flyer. My goal is to bridge the gap between your store shelves and your customers phones with zero extra work for your staff.
 
 ### How I Help Your Store Grow
 ---
