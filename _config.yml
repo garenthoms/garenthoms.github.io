@@ -37,32 +37,32 @@ bookcrumbs:
 
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
-sidebar_nav_top:
-- label: # iWrite Trend Trading Strategy
-  url: # /fx
-- label: # iCreate Liner & Closer Calculator
-  url: # https://www.costbuildup.com/
-- label: # iFound Allpree.com
-  url: # https://www.allpree.com/
-- label: # Fund Manager at AGHL Capital 
-  url: 
+# sidebar_nav_top:
+# - label:  iWrite Trend Trading Strategy
+#  url: # /fx
+# - label: # iCreate Liner & Closer Calculator
+#  url: # https://www.costbuildup.com/
+# - label: # iFound Allpree.com
+#  url: # https://www.allpree.com/
+# - label: # Fund Manager at AGHL Capital 
+#  url: 
   
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
-sidebar_nav_bottom:
-- label: 
-  url: 
+# sidebar_nav_bottom:
+# - label: 
+#  url: 
 
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
-bottom_nav:
-- label: 
-  url: 
-- label:
-  url: 
-- label: 
-  url:
+# bottom_nav:
+# - label: 
+#  url: 
+# - label:
+#   url: 
+# - label: 
+#  url:
 
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
