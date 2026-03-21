@@ -95,6 +95,6 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
     - Proprietary Customer Pwa App: A high-speed Digital Flyer that sits directly on your customers' phone home screens 
     - Workflow Calibration: Custom setup of your Telegram data pipeline for 100% reliability.
 
-### Self-Manage
+Self-Manage
 ---   
 **Ps:** If you would like to **Self-Manage Your Own Deals**, I can deploy my Proprietary Marketing Infrastructure and give you Access via Google Sheet for you or your staff to edit and manage deals directly. **(J$5,000/mo)**
