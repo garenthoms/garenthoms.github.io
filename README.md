@@ -92,8 +92,9 @@ Dedicated Promotions Specialist <br> Contact: +{1}-{876}-{398}-{3993} | garentho
 
   - **Senior Marketing Director** (J$100,000 base + J$10,000 per store): I ensure your specific deals reach each branch's customers, acting as a dedicated manager for each store to drive traffic back to every location faster.
  
-- **Mandatory Setup & Integration Fee:** J$25,000 (One-time)
-  - During the first 30 days, I will deploy my proprietary technology to your business. This includes:
+- **One-time Integration Fee:** J$15,000 - Per Store
+  - During the first 30 days of each location, I will deploy my proprietary technology for your business. This includes:
+    - Hosting
     - Digital Web Flyer: A live, branded deal flyer link to be used in all social media bios (Instagram, Facebook, etc.).
-    - PWA App Deployment: Installation of your customer app under the proprietary technology.
+    - Customer App: Using my proprietary technology. I will take care of the web hosting for free 
     - Workflow Calibration: Custom setup of your Telegram data pipeline for 100% reliability.
