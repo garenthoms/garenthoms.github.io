@@ -96,4 +96,4 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
     - Workflow Calibration: Custom setup of your Telegram data pipeline for 100% reliability.
 
 > ##### PS 
-  - **Self-Manage: (J$5,000/mo)** If you would like to **Self-Manage Your Own Deals**, I can deploy my Proprietary Marketing Infrastructure and give you Access via Google Sheet for you or your staff to edit and manage deals directly. 
+  - **Self-Manage (J$5,000/mo):** If you would like to **Self-Manage Your Own Deals**, I can deploy my Proprietary Marketing Infrastructure and give you Access via Google Sheet for you or your staff to edit and manage deals directly. 
