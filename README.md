@@ -25,7 +25,7 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
 
 ### Key Capabilities
 ---
-> ##### Jan 2026 – Present | Promotions Manager & Developer, Allpree System
+> ##### Jan 2026 – Present | Promotions & Developer Specialist
    - **Developed a specialized** Telegram Pipeline that allows me to process store data in real time, ensuring deals go from the shelf to the app in under 5 minutes.
    - **24/7 Deal Management:** My system monitors your storefront around the clock. Whether a deal lasts for 24 hours or 7 days, the platform ensures it is live when it starts and removed when it ends.
    - **Curated Photo Library:** Maintained a 7,000+ item professional photo library to ensure local brands (Grace, Seprod, etc.) always look premium on a digital screen.
