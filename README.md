@@ -6,25 +6,25 @@ permalink: /
 
 <div align="center">
 <h4>GAREN THOMS <br>
-Independent Promotions & Store Deals Manager <br> Westmoreland, Jamaica | +1-876-398-3993 | garenthoms@gmail.com</h4>
+Independent Promotions & Store Deals Manager <br> Westmoreland, Jamaica | +{1}-{876}-{398}-{3993} | garenthoms {@} gmail.com</h4>
 </div>
 
 ### Professional Objective
 ---
-Dedicated Promotions Specialist helping Jamaican grocers digitize in store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital storefront. My goal is to bridge the gap between your store shelves and your customers phones with zero extra work for your staff.
+  Dedicated Promotions Specialist helping Jamaican grocers digitize in-store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital storefront. My goal is to bridge the gap between your store shelves and your customers' phones with zero extra work for your staff.
 
 ### How I Help Your Store Grow
 
 ---
-- **Barcode to Live Workflow** There is no software for you to learn. Simply send a photo or text of your barcodes along with the Regular and Discount prices via Telegram. I handle the scanning, product matching, and digital publishing immediately.
+- **Barcode to Live Workflow:** There is no software for you to learn. Simply send a photo or text of your barcodes along with the Regular and Discount prices via Telegram. I handle the scanning, product matching, and digital publishing immediately.
 
-- **Move Slow Stock Instantly** If you have inventory that needs to move fast, just Telegram me the details. I can push Flash Deals to your digital flyer in minutes to help you clear shelf space and recover cash.
+- **Move Slow Stock Instantly:** If you have inventory that needs to move fast, just Telegram me the details. I can push Flash Deals to your digital flyer in minutes to help you clear shelf space and recover cash.
 
-- **Instant QR Code Installation** Your only task at the store is to have customers scan a QR code. No App Store is needed. Customers scan, sign up, and your live deals are instantly installed on their phone home screen.
+- **Instant QR Code Installation:** Your only task at the store is to have customers scan a QR code. No App Store is needed. Customers scan, sign up, and your live deals are instantly installed on their phone's home screen.
 
-- **Professional Merchandising** I utilize a high end database of 2,000 plus professional Jamaican product photos. Even if you send a quick photo of a barcode, I ensure your customers see a sharp, high quality advertisement.
+- **Professional Merchandising:** I utilize a high-end database of 7,000 plus professional Jamaican product photos. Even if you send a quick photo of a barcode, I ensure your customers see a sharp, high-quality advertisement.
 
-- **Direct Customer Reach** For J$60,000 per month, I ensure your deals actually reach your customers. I act as your dedicated manager to make sure your best prices are seen by shoppers before they decide where to shop, driving more foot traffic directly to your registers.
+- **Direct Customer Reach:** For J$60,000 per month, I ensure your deals actually reach your customers. I act as your dedicated manager to make sure your best deals are being seen by your best customers before anyone else, to drive them back to your registers faster.
 
 ### Key Capabilities
 
@@ -36,7 +36,7 @@ Dedicated Promotions Specialist helping Jamaican grocers digitize in store deals
 
 - **24/7 Deal Management:** My system monitors your storefront around the clock. Whether a deal lasts for 24 hours or 7 days, the platform ensures it is live when it starts and removed when it ends.
 
-- **Curated Photo Library:** Maintained a 7,000 plus item professional photo library to ensure local brands (Grace, Seprod, etc.) always look premium on a digital screen.
+- **Curated Photo Library:** Maintained a 7,000+ item professional photo library to ensure local brands (Grace, Seprod, etc.) always look premium on a digital screen.
 
 - **Price Accuracy:** Engineered Auto Expiration logic within the Allpree PWA to ensure customers never see an old deal, eliminating pricing disputes at the cash register.
 
