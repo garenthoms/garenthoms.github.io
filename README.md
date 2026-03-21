@@ -5,13 +5,13 @@ permalink: /
 ---
 
 <div align="center">
-<h4>GAREN THOMS <br>
-Independent Promotions & Store Deals Manager <br> Westmoreland, Jamaica | +{1}-{876}-{398}-{3993} | garenthoms {@} gmail.com</h4>
+<h4>Independent Contractor<br>
+Dedicated Promotions Specialist <br> Contact: +{1}-{876}-{398}-{3993} | garenthoms {@} gmail.com</h4>
 </div>
 
 ### Professional Objective
 ---
-  Dedicated Promotions Specialist helping Jamaican grocers digitize in-store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital storefront. My goal is to bridge the gap between your store shelves and your customers' phones with zero extra work for your staff.
+  Dedicated Promotions Specialist helping Jamaican grocers digitize in-store deals through Telegram. I take raw store data such as barcodes, shelf tag photos, or lists and instantly publish them to a professional digital storefront. My goal is to bridge the gap between your store shelves and your customers phones with zero extra work for your staff.
 
 ### How I Help Your Store Grow
 
@@ -60,3 +60,11 @@ Independent Promotions & Store Deals Manager <br> Westmoreland, Jamaica | +{1}-{
 - **Independent Partnership:** Registered Independent Contractor (TRN provided upon request). No payroll taxes, benefits, or overhead obligations for the Client.
 
 - **Flexible Engagement:** Services are provided on a rolling month-to-month basis to ensure ongoing value. Partnership may be adjusted or concluded at any time with 7 days written notice.
+
+- **Service Package:** I offer three levels of service to ensure your store-specific deals reach your customers and drive foot traffic directly to your registers.
+
+  - **Part-Time Assistant** (J$8,000/mo): I give you Access to my proprietary technology platform for your own staff to edit and manage deals directly via Google Sheet.
+
+  - **Full-Time Deals Manager** (J$60,000/mo): I ensure your deals reach your store best customers before anyone else, driving them back to your registers faster.
+
+  - **Senior Marketing Director** (J$100,000 base + J$10,000 per store): I ensure your specific deals reach each branch's customers, acting as a dedicated manager for each store to drive traffic back to every location faster.
