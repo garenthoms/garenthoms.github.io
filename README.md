@@ -34,7 +34,7 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
    - **High Definition Visual Merchandising:** I replace low-quality smartphone photos with professional studio-grade imagery for every item, significantly increasing customer trust and item perceived value.
    - **Zero Maintenance Operations:** I operate as an Invisible Staff Member. I require zero training for your employees and zero time from your IT department; the entire system runs externally under my management.
 
-### Experience In Leadership & Sales
+#### Experience in Sales & Leadership
 ---
 > ##### 2024 – 2025 | The Playa Collection Club
  - Hilton Rose Hall Resort & Spa - Sales Director / Sales Manager / Closer
@@ -54,9 +54,10 @@ Dedicate myself to helping Jamaican grocers digitize their in-store deals throug
 > ##### 2010 – 2012 | Unlimited Vacation Club
  - Secrets Resorts & Spa Jamaica: Liner
    
-> ##### 2008 – 2010 | Sandals Grande Ocho Rios Beach & Villa Resort | Sales Executive
- - Prospected new business and managed high-value customer relationships via email and telephone.
- - Conducted resort tours and handled administrative tasks, including commission invoicing.
+> ##### 2008 – 2010 | Sandals Grande Ocho Rios 
+ - Sales Executive
+   - Prospected new business and managed high-value customer relationships via email and telephone.
+   - Conducted resort tours and handled administrative tasks, including commission invoicing.
 
 ### Education & Certification
 ---
